@@ -1,0 +1,6 @@
+[18-Jan-2020 17:38:41 Asia/Kolkata] PHP Fatal error:  Cannot redeclare M_order::getApprovedRequests() in /home/moongardens/public_html/alqaseem/application/models/android/M_order.php on line 67
+[18-Jan-2020 18:19:51 Asia/Kolkata] PHP Fatal error:  Cannot redeclare M_coupon::getCoupons() in /home/moongardens/public_html/alqaseem/application/models/android/M_coupon.php on line 20
+[20-Jan-2020 12:34:42 Asia/Kolkata] PHP Fatal error:  Cannot redeclare M_order::getOrderDetails() in /home/moongardens/public_html/alqaseem/application/models/android/M_order.php on line 77
+[28-Jan-2020 16:02:30 Asia/Kolkata] PHP Fatal error:  Cannot redeclare M_dashboard::getNewRequests() in /home/moongardens/public_html/alqaseem/application/models/admin/M_dashboard.php on line 102
+[28-Jan-2020 16:53:23 Asia/Kolkata] PHP Fatal error:  Cannot redeclare M_dashboard::getAgenciesToday() in /home/moongardens/public_html/alqaseem/application/models/admin/M_dashboard.php on line 174
+[29-Jan-2020 16:30:29 Asia/Kolkata] PHP Fatal error:  Cannot redeclare M_order::getDrivers() in /home/moongardens/public_html/alqaseem/application/models/android/M_order.php on line 104
